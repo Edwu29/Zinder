@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Zinder/static/css/main.8d7c7e33.chunk.css",
+    "main.js": "/Zinder/static/js/main.fba2929d.chunk.js",
+    "main.js.map": "/Zinder/static/js/main.fba2929d.chunk.js.map",
+    "runtime-main.js": "/Zinder/static/js/runtime-main.c8b2999d.js",
+    "runtime-main.js.map": "/Zinder/static/js/runtime-main.c8b2999d.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Zinder/static/css/2.2a86faee.chunk.css",
+    "static/js/2.058de1f1.chunk.js": "/Zinder/static/js/2.058de1f1.chunk.js",
+    "static/js/2.058de1f1.chunk.js.map": "/Zinder/static/js/2.058de1f1.chunk.js.map",
+    "index.html": "/Zinder/index.html",
+    "precache-manifest.bac73fe00ee37ee8a83dbafc0af3e4d9.js": "/Zinder/precache-manifest.bac73fe00ee37ee8a83dbafc0af3e4d9.js",
+    "service-worker.js": "/Zinder/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Zinder/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.8d7c7e33.chunk.css.map": "/Zinder/static/css/main.8d7c7e33.chunk.css.map",
+    "static/js/2.058de1f1.chunk.js.LICENSE.txt": "/Zinder/static/js/2.058de1f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b2999d.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.058de1f1.chunk.js",
+    "static/css/main.8d7c7e33.chunk.css",
+    "static/js/main.fba2929d.chunk.js"
+  ]
+}
