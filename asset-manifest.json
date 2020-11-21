@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Zinder/static/css/main.8d7c7e33.chunk.css",
-    "main.js": "/Zinder/static/js/main.78447f95.chunk.js",
-    "main.js.map": "/Zinder/static/js/main.78447f95.chunk.js.map",
+    "main.js": "/Zinder/static/js/main.9fe3ebab.chunk.js",
+    "main.js.map": "/Zinder/static/js/main.9fe3ebab.chunk.js.map",
     "runtime-main.js": "/Zinder/static/js/runtime-main.c8b2999d.js",
     "runtime-main.js.map": "/Zinder/static/js/runtime-main.c8b2999d.js.map",
     "static/css/2.2a86faee.chunk.css": "/Zinder/static/css/2.2a86faee.chunk.css",
     "static/js/2.32dd8eee.chunk.js": "/Zinder/static/js/2.32dd8eee.chunk.js",
     "static/js/2.32dd8eee.chunk.js.map": "/Zinder/static/js/2.32dd8eee.chunk.js.map",
     "index.html": "/Zinder/index.html",
-    "precache-manifest.de429394a7a8205f34636ffdc0beb7d6.js": "/Zinder/precache-manifest.de429394a7a8205f34636ffdc0beb7d6.js",
+    "precache-manifest.2016339373d7ff9860ef05ca2d2a0d51.js": "/Zinder/precache-manifest.2016339373d7ff9860ef05ca2d2a0d51.js",
     "service-worker.js": "/Zinder/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/Zinder/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.8d7c7e33.chunk.css.map": "/Zinder/static/css/main.8d7c7e33.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.32dd8eee.chunk.js",
     "static/css/main.8d7c7e33.chunk.css",
-    "static/js/main.78447f95.chunk.js"
+    "static/js/main.9fe3ebab.chunk.js"
   ]
 }

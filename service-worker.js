@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Zinder/precache-manifest.de429394a7a8205f34636ffdc0beb7d6.js"
+  "/Zinder/precache-manifest.2016339373d7ff9860ef05ca2d2a0d51.js"
 );
 
 self.addEventListener('message', (event) => {
