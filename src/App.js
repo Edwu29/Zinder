@@ -29,7 +29,7 @@ class App extends React.Component {
     <Router>  
       <Switch>
         <Route exact path='/' exact component={routeProps => <Home {...routeProps} handleChange={this.handleChange} />}>
-          </Route> 
+  
 
         <Route path='/result' exact component={() => <Results zodiac1={this.state.zodiac1} zodiac2={this.state.zodiac2}/>}/>  
      </Switch>
