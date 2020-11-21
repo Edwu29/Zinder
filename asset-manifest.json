@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Zinder/static/css/main.8d7c7e33.chunk.css",
-    "main.js": "/Zinder/static/js/main.4356868d.chunk.js",
-    "main.js.map": "/Zinder/static/js/main.4356868d.chunk.js.map",
+    "main.js": "/Zinder/static/js/main.f022a964.chunk.js",
+    "main.js.map": "/Zinder/static/js/main.f022a964.chunk.js.map",
     "runtime-main.js": "/Zinder/static/js/runtime-main.c8b2999d.js",
     "runtime-main.js.map": "/Zinder/static/js/runtime-main.c8b2999d.js.map",
     "static/css/2.2a86faee.chunk.css": "/Zinder/static/css/2.2a86faee.chunk.css",
-    "static/js/2.058de1f1.chunk.js": "/Zinder/static/js/2.058de1f1.chunk.js",
-    "static/js/2.058de1f1.chunk.js.map": "/Zinder/static/js/2.058de1f1.chunk.js.map",
+    "static/js/2.32dd8eee.chunk.js": "/Zinder/static/js/2.32dd8eee.chunk.js",
+    "static/js/2.32dd8eee.chunk.js.map": "/Zinder/static/js/2.32dd8eee.chunk.js.map",
     "index.html": "/Zinder/index.html",
-    "precache-manifest.51844bb53fcaec354afc69329921e97f.js": "/Zinder/precache-manifest.51844bb53fcaec354afc69329921e97f.js",
+    "precache-manifest.37b3f315d2155c03213b1e7e900f7393.js": "/Zinder/precache-manifest.37b3f315d2155c03213b1e7e900f7393.js",
     "service-worker.js": "/Zinder/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/Zinder/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.8d7c7e33.chunk.css.map": "/Zinder/static/css/main.8d7c7e33.chunk.css.map",
-    "static/js/2.058de1f1.chunk.js.LICENSE.txt": "/Zinder/static/js/2.058de1f1.chunk.js.LICENSE.txt"
+    "static/js/2.32dd8eee.chunk.js.LICENSE.txt": "/Zinder/static/js/2.32dd8eee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8b2999d.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.058de1f1.chunk.js",
+    "static/js/2.32dd8eee.chunk.js",
     "static/css/main.8d7c7e33.chunk.css",
-    "static/js/main.4356868d.chunk.js"
+    "static/js/main.f022a964.chunk.js"
   ]
 }
